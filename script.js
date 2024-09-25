@@ -11,3 +11,4 @@ if (temperatura < 0) {
 } else {
     alert("Muito Quente🥵")
 }
+

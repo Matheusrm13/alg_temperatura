@@ -37,4 +37,7 @@
 - Se o usuário digitar "30", a mensagem exibida deve ser: "Quente."
 
 - Se o usuário digitar "40", a mensagem exibida deve ser: "Muito Quente."
- 
+
+git add 
+git commit - m "comentario"
+git push
